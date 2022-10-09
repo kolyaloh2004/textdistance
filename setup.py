@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # external
 from setuptools import setup
-
+#Tishchenko ALexey IS/b-21-1-o
 
 extras = {
     # enough for simple usage
